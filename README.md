@@ -1,6 +1,20 @@
 ---
+language: 
+- multilingual
+- ar
+- zh
+- nl
+- en
+- fr
+- de
+- it
+- ko
+- pl
+- pt
+- ru
+- es
+- tr
 pipeline_tag: sentence-similarity
-language: multilingual
 license: apache-2.0
 tags:
 - sentence-transformers
