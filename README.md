@@ -1,5 +1,5 @@
 ---
-language: 
+language:
 - multilingual
 - ar
 - zh
@@ -14,13 +14,13 @@ language:
 - ru
 - es
 - tr
-pipeline_tag: sentence-similarity
 license: apache-2.0
+library_name: sentence-transformers
 tags:
 - sentence-transformers
 - feature-extraction
 - sentence-similarity
-- transformers
+pipeline_tag: sentence-similarity
 ---
 
 # sentence-transformers/distiluse-base-multilingual-cased-v1
